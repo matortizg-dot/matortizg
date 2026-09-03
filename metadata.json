@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan",
+  "description": "Evaluación nutricional de alimentos mediante fotos, sellos y tablas nutricionales con IA, historial semanal y recomendaciones personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
